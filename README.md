@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @kensaba101
-- 👀 I’m interested in ... engineering, writing.
-- 🌱 I’m currently learning ... Haskell
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 kensaba101/kensaba101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
